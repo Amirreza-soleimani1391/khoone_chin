@@ -1,0 +1,39 @@
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build and distribution artifacts
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.ENV/
+
+# Testing
+.coverage
+htmlcov/
+.coverage.*
+.noserc
+.tox/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+```
